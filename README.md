@@ -1,8 +1,16 @@
-![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
+## Tourist Guide to finding Low Risk Restuarants in Chicago to eat.
 
-Welcome,
+Being a food and hodophilee,or simply Epicurista! I’m always excited about visiting new places and enjoying great food and wine everywhere around the world.
+Finding a low risk restaurants has always been important to me, due to food sensitivities and intolerances, as a result I have a  very sensitve stomach.
+The aim of this project is to conduct an exploratory data analysis on the Food Inspectionn data set from the city of Chicago data portal.
+This information is derived from inspections of restaurants and other food establishments in Chicago from January 1, 2010 to the present. Inspections are performed by staff from the Chicago Department of Public Health’s Food Protection Program using a standardized procedure.
 
-This is the Code Institute student template for deploying your third portfolio project, the Python command-line project. The last update to this file was: **May 14, 2024**
+## DATASET
+- 17 coloumns
+
+- Original dataset 278K rows,I am only using the first 1000 rows
+
+- Each row-Food Inspection
 
 ## Reminders
 
